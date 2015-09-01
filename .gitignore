@@ -3,3 +3,6 @@
 
 # Vagrant
 /.vagrant
+
+# Sublime
+*.sublime-*
